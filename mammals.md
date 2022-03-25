@@ -1,3 +1,4 @@
 humans
 dolphins
 chipmunk
+chimpanzees
